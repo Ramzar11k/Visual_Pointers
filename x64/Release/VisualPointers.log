@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(99,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(211,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(214,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(218,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(221,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(225,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(231,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(239,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(265,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  Generating code
+  2 of 17 functions (11.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VisualPointers.vcxproj -> C:\Users\ramor11k\source\repos\VisualPointers\x64\Release\VisualPointers.exe

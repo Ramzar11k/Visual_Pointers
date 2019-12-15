@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(22,7): warning C4101: 'hWnd': unreferenced local variable
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(52): warning C4715: 'WindowProc': not all control paths return a value
+LINK : fatal error LNK1104: cannot open file 'd3dx9.lib'

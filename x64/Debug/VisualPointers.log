@@ -1,0 +1,13 @@
+﻿  Main.cpp
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(99,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(183,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(186,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(193,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(196,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(200,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(203,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(207,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(213,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(221,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ramor11k\source\repos\VisualPointers\Main.cpp(254,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  VisualPointers.vcxproj -> C:\Users\ramor11k\source\repos\VisualPointers\x64\Debug\VisualPointers.exe
